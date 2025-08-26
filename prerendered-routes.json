@@ -1,8 +1,0 @@
-{
-  "routes": {
-    "/yonne-smart-attendance-system": {},
-    "/yonne-smart-attendance-system/admin-dashboard": {},
-    "/yonne-smart-attendance-system/register": {},
-    "/yonne-smart-attendance-system/reset-password": {}
-  }
-}
